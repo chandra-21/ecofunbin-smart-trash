@@ -23,8 +23,8 @@
 #define FIRMWARE_VERSION "6.3.1"
 
 // ---------------- FIREBASE (HARDCODED) ----------------
-#define API_KEY "AIzaSyAJ0J1yqm1iELE_L31VZ2WtO_A1mkYyvyY"
-#define DATABASE_URL "https://smart-trash-v2-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY "your api key"
+#define DATABASE_URL "your api key"
 
 // ---------------- WIFI PORTAL CONFIG ----------------
 #define CONFIG_BUTTON   0
